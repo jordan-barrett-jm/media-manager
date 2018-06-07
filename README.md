@@ -14,3 +14,10 @@ I used PyQt to create the GUI. The functionality of the program is that it is ab
 # Reason for creation
 
 I have a really messy Downloads folder hahaha
+
+
+# Distributable version
+
+Want to give the program a try without having to get any dependencies? Well step right up with your Windows PC
+
+Here's the link to the zip file containing the distributable: https://github.com/jordan-barrett-jm/media-manager/blob/master/EXE%20Files/media-manager.zip
